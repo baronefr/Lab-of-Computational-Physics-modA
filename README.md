@@ -24,6 +24,6 @@ This course has been evaluated on a final project about the mean timer technique
 <h6 align="center">repository by Francesco Pio Barone</h6>
 
 <p align="center">
-  <img src="https://www.unipd.it/sites/unipd.it/themes/unipd_2017/logo-print.png" alt="" height="70"/>
-  <img src="http://physicsofdata.dfa.unipd.it/fileadmin/Immagini/Pagine/Logo-DFA.png" alt="" height="70"/>
+  <img src="https://user-images.githubusercontent.com/62724611/166108058-3bcf5ffe-f5a3-490d-be94-ba848a0248b3.png" alt="" height="70"/>
+  <img src="https://user-images.githubusercontent.com/62724611/166108076-98afe0b7-802c-4970-a2d5-bbb997da759c.png" alt="" height="70"/>
 </p>
