@@ -1,4 +1,4 @@
-<h1 align="center"> Lab of Computational Physics (module A) </h1>
+<h1 align="center">Lab of Computational Physics (module A)</h1>
 
 This repository contains the weekly exercises for the Laboratory of Computational Physics (module A) course, by Prof. Zanetti, AY 2021/22.
 
@@ -14,7 +14,7 @@ This repository contains the weekly exercises for the Laboratory of Computationa
 - 07 | linear algebra
 - 08 | fitting
 - 09 | algorithms
-- 10 | monte carlo methods
+- 10 | monte carlo
 
 ### Final project
 This course has been evaluated on a final project about the mean timer technique in drift tube detectors. Check it out [here](https://github.com/baronefr/mean-timer-technique-in-drift-tube-detectors).
