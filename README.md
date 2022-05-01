@@ -14,7 +14,7 @@ This repository contains the weekly exercises for the Laboratory of Computationa
 - 07 | linear algebra
 - 08 | fitting
 - 09 | algorithms
-- 10 | monte carlo
+- 10 | Monte Carlo methods
 
 ### Final project
 This course has been evaluated on a final project about the mean timer technique in drift tube detectors. Check it out [here](https://github.com/baronefr/mean-timer-technique-in-drift-tube-detectors).
