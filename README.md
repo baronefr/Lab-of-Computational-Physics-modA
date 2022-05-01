@@ -10,7 +10,7 @@ This repository contains the weekly exercises for the Laboratory of Computationa
 - 03 | Numpy
 - 04 | OSEMN
 - 05 | Pandas
-- 06 | data visualization
+- 06 | data plotting & visualization
 - 07 | linear algebra
 - 08 | fitting
 - 09 | algorithms
